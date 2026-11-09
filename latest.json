@@ -1,9 +1,9 @@
 {
-  "version": "1.26.1",
-  "zip": "app-1.26.1.zip",
-  "sha256": "f11be717246507845476f65c5bbc7260588d180daac4d9d9a6272933d23a1f9f",
-  "sig": "q43jukD+X3ES9AdHpc3wWiEA3oymRM8wQn62B801g2k81GIm5z0jL8jLw5Gi+9PXuCTeZBAlmpenAZlqx3TxAQ==",
-  "notes": "أول نسخة للتجربة",
-  "expires": "2026-11-20",
+  "version": "1.26.2",
+  "zip": "app-1.26.2.zip",
+  "sha256": "d9b19345a2180f4f85e2acc6d43f59be52a1a4cb9b6fd0ff560e95839f3cce35",
+  "sig": "Y6uQYQw7R5EF+Btfk1BD5ytcgFyr8UT5xMN7Y3dAIDAnGPcpadc8rp1QahZ0udEq86oxkh8FlKVcoJeqplI9Dg==",
+  "notes": "ملف التنصيب، وأيقونة البرنامج",
+  "expires": "2026-11-22",
   "block": {}
 }
