@@ -1,9 +1,9 @@
 {
-  "version": "1.26.8",
-  "zip": "app-1.26.8.zip",
-  "sha256": "733b58cffaea4e57e9cc2960df9847e37a1f7fca5befc74648181115a2d679ee",
-  "sig": "dYRPn4x4X3cwzJs0S4UyYm7AUh63/4/nweXN1hWr0zI+YXVhT6jxzbrusTuJzst5xICptMKdV5TyyA+3uY8tBQ==",
-  "notes": "قائمة أسماء العجلة تظهر فوق كل شيء بجانب العجلة، مع زر إغلاق",
+  "version": "1.26.9",
+  "zip": "app-1.26.9.zip",
+  "sha256": "afb86ebc22686a249bb4f4f04fd3da3497fa056ce28972350935af916e6c09e8",
+  "sig": "sYl0ujUXDuZr/hvOvBQLWSfWGEjLQrh6nNq5eYsbJ8IAhlJr78OmVulpcDCQAGFYdSaUf90Xtrrjyju0Lkn+AQ==",
+  "notes": "شاشة موحدة «حسابي ومدارسي»: الحساب وأماكن العمل والإدارة والانضمام في مكان واحد",
   "expires": "2026-11-22",
   "block": {}
 }
