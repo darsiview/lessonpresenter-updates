@@ -1,9 +1,9 @@
 {
-  "version": "1.26.6",
-  "zip": "app-1.26.6.zip",
-  "sha256": "f96c89ab0edd7e6cd05d82fa7f6df1e85aca0618e22dae41c2b7a6c80fbd6f11",
-  "sig": "KtNlqoLyj1Xqf78E68j8L3IKNfH4xzU2JPWUd2CK2PBaKsV1CVEpsjA9hCEnKAUJvz7Fz4+hv4kBj1kRlLT8CA==",
-  "notes": "شريط النسخة التجريبية يظهر أول يومين وآخر 3 أيام فقط، ونقطة خضراء عند جاهزية تحديث، ورقم النسخة وزر التحقق أسفل الإعدادات",
+  "version": "1.26.7",
+  "zip": "app-1.26.7.zip",
+  "sha256": "3417a878fec1c949ad78ed67ff5449c627111a2bbe520002d5f7cd46267c2660",
+  "sig": "GFc7vHOaLL5CyQTNnkD8IqCxUc/h99MqiABQ/EcTdOiwkj5eXf62qi4nDEvzryX5l87vFpbYk1YtNsMd8Bo/BA==",
+  "notes": "الفصول والأسماء: خطوتان مرقمتان (① الفصل ← ② أسماء طلاب الفصل) واسم الفصل ظاهر فوق الأسماء",
   "expires": "2026-11-22",
   "block": {}
 }
