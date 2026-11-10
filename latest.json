@@ -1,9 +1,9 @@
 {
-  "version": "1.26.3",
-  "zip": "app-1.26.3.zip",
-  "sha256": "0af9afffbc265334b17b27b24a1014feb9cc435ffe13baeb962c72c5b2b1b0cb",
-  "sig": "Knc2NXhRKbPlkYZUqeQSrn9e31oDUK5AtV+rGzzBXVnekXAa9k9P0uPJkMGCt9hOHyaEAIsh9pE0teZufPvqAw==",
-  "notes": "لغة التنصيب، والصياغة المحايدة",
+  "version": "1.26.4",
+  "zip": "app-1.26.4.zip",
+  "sha256": "d7e10d216c745685a83d05bda205c6aec992845d65c1580be7078d3bb96e11be",
+  "sig": "fCBsNP7QJI5ZNYovqvLp79M+aJtX0gwQGUtk07So/tsRxEjlyqYy6MnFE89cxrm4gg1fbD+zEeHLEYSEyEEHCQ==",
+  "notes": "ترتيب ملفات البرنامج في مجلد مخفي",
   "expires": "2026-11-22",
   "block": {}
 }
