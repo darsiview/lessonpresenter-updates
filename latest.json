@@ -1,9 +1,9 @@
 {
-  "version": "1.26.9",
-  "zip": "app-1.26.9.zip",
-  "sha256": "afb86ebc22686a249bb4f4f04fd3da3497fa056ce28972350935af916e6c09e8",
-  "sig": "sYl0ujUXDuZr/hvOvBQLWSfWGEjLQrh6nNq5eYsbJ8IAhlJr78OmVulpcDCQAGFYdSaUf90Xtrrjyju0Lkn+AQ==",
-  "notes": "شاشة موحدة «حسابي ومدارسي»: الحساب وأماكن العمل والإدارة والانضمام في مكان واحد",
+  "version": "1.26.10",
+  "zip": "app-1.26.10.zip",
+  "sha256": "aa479bd7bbac15ebb6e4a5de238bcd93432115c9fc9d1b2243cb4d3779aea3a1",
+  "sig": "GuN+KGJfL83oh6FpKS8LN76TzwrHy7Md+jvvHriI8QvGqSYNwqyUA0qTGOfv3HkSFo8TMfF7urBzgdkki6e5Ag==",
+  "notes": "التسجيل: اختيار المايكروفون تلقائياً ومؤشر صوت حي، وصوت الجهاز مفعّل، ومعاينة الكاميرا ومكانها وحجمها، وإظهارها وإخفاؤها أثناء التسجيل",
   "expires": "2026-11-22",
   "block": {}
 }
