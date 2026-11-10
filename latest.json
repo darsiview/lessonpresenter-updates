@@ -1,9 +1,9 @@
 {
-  "version": "1.26.5",
-  "zip": "app-1.26.5.zip",
-  "sha256": "6549094d5c673a5093e0def9937f3b0b3a40c082e27dd52bd841381c483e5870",
-  "sig": "hBT1ezrY86nrWpOpEbJLbUPW7KYD5zXAKuOnqfzC47wfT2yFLXhbdYcW50+955dq9qfVdfKnKFbFC4IOZp/dDA==",
-  "notes": "إصلاح العجلة: وضع «رقم» وعجلة المجموعات، والعدل في اختيار الطالبات",
+  "version": "1.26.6",
+  "zip": "app-1.26.6.zip",
+  "sha256": "f96c89ab0edd7e6cd05d82fa7f6df1e85aca0618e22dae41c2b7a6c80fbd6f11",
+  "sig": "KtNlqoLyj1Xqf78E68j8L3IKNfH4xzU2JPWUd2CK2PBaKsV1CVEpsjA9hCEnKAUJvz7Fz4+hv4kBj1kRlLT8CA==",
+  "notes": "شريط النسخة التجريبية يظهر أول يومين وآخر 3 أيام فقط، ونقطة خضراء عند جاهزية تحديث، ورقم النسخة وزر التحقق أسفل الإعدادات",
   "expires": "2026-11-22",
   "block": {}
 }
