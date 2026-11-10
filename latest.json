@@ -1,9 +1,9 @@
 {
-  "version": "1.26.7",
-  "zip": "app-1.26.7.zip",
-  "sha256": "3417a878fec1c949ad78ed67ff5449c627111a2bbe520002d5f7cd46267c2660",
-  "sig": "GFc7vHOaLL5CyQTNnkD8IqCxUc/h99MqiABQ/EcTdOiwkj5eXf62qi4nDEvzryX5l87vFpbYk1YtNsMd8Bo/BA==",
-  "notes": "الفصول والأسماء: خطوتان مرقمتان (① الفصل ← ② أسماء طلاب الفصل) واسم الفصل ظاهر فوق الأسماء",
+  "version": "1.26.8",
+  "zip": "app-1.26.8.zip",
+  "sha256": "733b58cffaea4e57e9cc2960df9847e37a1f7fca5befc74648181115a2d679ee",
+  "sig": "dYRPn4x4X3cwzJs0S4UyYm7AUh63/4/nweXN1hWr0zI+YXVhT6jxzbrusTuJzst5xICptMKdV5TyyA+3uY8tBQ==",
+  "notes": "قائمة أسماء العجلة تظهر فوق كل شيء بجانب العجلة، مع زر إغلاق",
   "expires": "2026-11-22",
   "block": {}
 }
