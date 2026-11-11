@@ -1,9 +1,9 @@
 {
-  "version": "1.26.15",
-  "zip": "app-1.26.15.zip",
-  "sha256": "1f74bdd1720b3d5bb577a4dfc44fcd3e78607595a52c6e1d9d24abec93d52aca",
-  "sig": "lP3n2ZV1nmOTWfG8TXre+RgWFm9NokCnnlGk2Tf5CVXLrZ+3jp2/IkDGen8OCxjVcisJuoHbed+TEcMKODw9Bg==",
-  "notes": "سهم لكل مجموعة في الشريط، والتبديل بالسحب، وتضييق المجموعات بخطوطها",
+  "version": "1.26.16",
+  "zip": "app-1.26.16.zip",
+  "sha256": "96f78c5341cf3d89ad744b9bcdb456ba76456643f3702c5b78d23f104a4cca4f",
+  "sig": "Uacp3a6zUJ9oGiq2xguMOLhYnN4lwgtPI6/Np/PcRAwMbWKN0VmfujFhF+b81ihDm4Rkoi+LzeDHC8GOmCY4AA==",
+  "notes": "سحب الخطوط بين مجموعات الشريط بحرية، وخط لأزرار النافذة",
   "expires": "2026-11-23",
   "block": {}
 }
