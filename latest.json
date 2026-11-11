@@ -1,9 +1,9 @@
 {
-  "version": "1.26.14",
-  "zip": "app-1.26.14.zip",
-  "sha256": "7793ea86b6d0291026f85fbf4d0b82855db20cdf6674063af4bc3d4a37127365",
-  "sig": "dbVJ2v5tJ/jD//332dgKBpiJKcopoEWyp59Koitns0y3rr0G6eWi+HS5ruahS621sS2Hxd/4ytCNFmVn1aKpDg==",
-  "notes": "شريط يتكيّف مع حجم الشاشة، وترتيب الأدوات بالسحب، وتكبير الأزرار",
+  "version": "1.26.15",
+  "zip": "app-1.26.15.zip",
+  "sha256": "1f74bdd1720b3d5bb577a4dfc44fcd3e78607595a52c6e1d9d24abec93d52aca",
+  "sig": "lP3n2ZV1nmOTWfG8TXre+RgWFm9NokCnnlGk2Tf5CVXLrZ+3jp2/IkDGen8OCxjVcisJuoHbed+TEcMKODw9Bg==",
+  "notes": "سهم لكل مجموعة في الشريط، والتبديل بالسحب، وتضييق المجموعات بخطوطها",
   "expires": "2026-11-23",
   "block": {}
 }
