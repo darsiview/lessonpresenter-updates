@@ -1,9 +1,9 @@
 {
-  "version": "1.26.12",
-  "zip": "app-1.26.12.zip",
-  "sha256": "1336805cf85bf2fa1cbadbb1fa6ad82387d09f6b456f6b636fde9763e3d3d02e",
-  "sig": "Cf5qEKYsjUyaHC3vpgBMEJshQdCcMT4bNCdOwe5duGr2LyB/3Z2FA20B2S4M8Z6T59SuY806XNk2D5qqN6JfDg==",
-  "notes": "تعديل المجموعات يدوياً (نقل وتبديل بالضغط أو السحب)، والتسجيل في نسخة الويب",
+  "version": "1.26.14",
+  "zip": "app-1.26.14.zip",
+  "sha256": "7793ea86b6d0291026f85fbf4d0b82855db20cdf6674063af4bc3d4a37127365",
+  "sig": "dbVJ2v5tJ/jD//332dgKBpiJKcopoEWyp59Koitns0y3rr0G6eWi+HS5ruahS621sS2Hxd/4ytCNFmVn1aKpDg==",
+  "notes": "شريط يتكيّف مع حجم الشاشة، وترتيب الأدوات بالسحب، وتكبير الأزرار",
   "expires": "2026-11-23",
   "block": {}
 }
