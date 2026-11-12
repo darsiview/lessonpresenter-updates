@@ -1,9 +1,9 @@
 {
-  "version": "1.26.16",
-  "zip": "app-1.26.16.zip",
-  "sha256": "96f78c5341cf3d89ad744b9bcdb456ba76456643f3702c5b78d23f104a4cca4f",
-  "sig": "Uacp3a6zUJ9oGiq2xguMOLhYnN4lwgtPI6/Np/PcRAwMbWKN0VmfujFhF+b81ihDm4Rkoi+LzeDHC8GOmCY4AA==",
-  "notes": "سحب الخطوط بين مجموعات الشريط بحرية، وخط لأزرار النافذة",
-  "expires": "2026-11-23",
+  "version": "1.26.18",
+  "zip": "app-1.26.18.zip",
+  "sha256": "da6aa0674911a8b8d620ad5c62032fc8a80d575b9a52f76a7371a1e692cfd208",
+  "sig": "TsU5oYvzut/1/5USrrjIbB53hkujwOAZjfAdYwLDt8joSRzdpv/3EPHMUSyHdWhsPGHnauJSdEXXeCQv4NqpBg==",
+  "notes": "حذف بريد الاسترجاع، و«إدارة هذا الجهاز»، والبدء من جديد للحساب المحلي، وتذكير الربط بالسحابة، وصياغة عامة لشاشات الحساب",
+  "expires": "2026-11-24",
   "block": {}
 }
