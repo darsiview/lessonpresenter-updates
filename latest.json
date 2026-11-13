@@ -1,9 +1,9 @@
 {
-  "version": "1.26.22",
-  "zip": "app-1.26.22.zip",
-  "sha256": "230e7db43f980b01a4732d95bc565edbecf5a7be34c50296242780be1b632803",
-  "sig": "UZToJaZD7ImZ573OZmBYzrQvuKyO1H76+osDwPTjExSwVo2J633R4HB0TnXw8TBSlvT0AoFVba4zfDtk+f6XAA==",
-  "notes": "تكبير وتصغير العجلة والأهداف والمؤقت بالسحب من أي طرف، والأهداف تظهر خارج البرنامج للعرض لا للتعديل",
+  "version": "1.26.23",
+  "zip": "app-1.26.23.zip",
+  "sha256": "805091f07f779cf2854754e9fedda2eadadd4384d0518d6cb93dd04f9b3fc1da",
+  "sig": "dYtHHduAj742ulyywqcV/RTvvgchZD7cKAjdJJKkcI24bnFc8RlVizhD1y3v+fVrzcAF9P38xU88pDVyowq0CA==",
+  "notes": "الأدوات المستقلة: كل أداة خارج البرنامج تُحرَّك وحدها، وتثبيت الكل، والترتيب التلقائي، والتحكم من الدائرة العائمة",
   "expires": "2026-11-25",
   "block": {}
 }
