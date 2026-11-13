@@ -1,9 +1,9 @@
 {
-  "version": "1.26.21",
-  "zip": "app-1.26.21.zip",
-  "sha256": "5a298347a813eff70f9a81ba11fa671ecc22f70e077bac563ca3750b6df6803e",
-  "sig": "WXG5CxgAnADxFp4ByA2Sudrz/WP2scd/Bvh0f29q8lLH+srXp6FpEm8PEnk7JcihF5zwjEJ4+pId5fAZ/BlKDg==",
-  "notes": "الضغط على المجموعات يعمل وزرا + و− ظاهران دائماً، والباوربوينت لا يبقى خلف البرنامج بعد إعادة التشغيل، وشهادات لكل المتساويات، وأسهم التنقل بالاتجاه العربي",
+  "version": "1.26.22",
+  "zip": "app-1.26.22.zip",
+  "sha256": "230e7db43f980b01a4732d95bc565edbecf5a7be34c50296242780be1b632803",
+  "sig": "UZToJaZD7ImZ573OZmBYzrQvuKyO1H76+osDwPTjExSwVo2J633R4HB0TnXw8TBSlvT0AoFVba4zfDtk+f6XAA==",
+  "notes": "تكبير وتصغير العجلة والأهداف والمؤقت بالسحب من أي طرف، والأهداف تظهر خارج البرنامج للعرض لا للتعديل",
   "expires": "2026-11-25",
   "block": {}
 }
