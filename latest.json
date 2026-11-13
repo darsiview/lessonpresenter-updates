@@ -1,9 +1,9 @@
 {
-  "version": "1.26.24",
-  "zip": "app-1.26.24.zip",
-  "sha256": "7862777103684779188c4b2958433129362503f64763e063ce536a8f0864dc61",
-  "sig": "ovyz9o0k3fRQMehkzjDoLMGcilyZZVl+8T/Rfdca6kYh5zOxWYSztz3ocytShbZZCJwF5hqY+Js4t83LBAaSAA==",
-  "notes": "الأدوات الملتصقة تتحرك معاً (Alt يفصلها)، وربط الدرس بعرض من نافذة تعديل الدرس",
-  "expires": "2026-11-25",
+  "version": "1.26.28",
+  "zip": "app-1.26.28.zip",
+  "sha256": "62170e93979103feb13d6bd3ed7df9be81a0c09124fc64ba1feb984b1618878e",
+  "sig": "SlKQgGmVxgtKEJpCd09faRkWfhz7VU2Ve5x3gdmuGlIe0wbsLvBjkfxMu77pFYvJmeU7W8eJ0fWDvRZicXO8DA==",
+  "notes": "قوائم الخانات: بعد اختيار حساب من قائمة البريد ينتقل المؤشر لكلمة المرور، وقائمة كلمة المرور تعرض الحسابات المطابقة للبريد فقط",
+  "expires": "2026-11-26",
   "block": {}
 }
