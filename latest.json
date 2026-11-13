@@ -1,9 +1,9 @@
 {
-  "version": "1.26.18",
-  "zip": "app-1.26.18.zip",
-  "sha256": "da6aa0674911a8b8d620ad5c62032fc8a80d575b9a52f76a7371a1e692cfd208",
-  "sig": "TsU5oYvzut/1/5USrrjIbB53hkujwOAZjfAdYwLDt8joSRzdpv/3EPHMUSyHdWhsPGHnauJSdEXXeCQv4NqpBg==",
-  "notes": "حذف بريد الاسترجاع، و«إدارة هذا الجهاز»، والبدء من جديد للحساب المحلي، وتذكير الربط بالسحابة، وصياغة عامة لشاشات الحساب",
-  "expires": "2026-11-24",
+  "version": "1.26.20",
+  "zip": "app-1.26.20.zip",
+  "sha256": "6d0c82d3229f7c7e38ffe0ebd0a1666f8d0130693c69e1a60178cc8f88fd93f4",
+  "sig": "RiV2wy/RDMRiVyKNQK7BwUGLHeEcTdR6/0VeMcSp8BfzTVuEUjOFPO3fQJ8XuF+sUilGMcM61Wu5qPCBsn6ZBQ==",
+  "notes": "لوحة الحصة أوضح وإكمال درس اليوم تلقائياً، وقيمة الأسبوع من الشريط مع بطاقة للطلاب، وتنبيه عند جاهزية التحديث، وشريط المجموعات يتسع لكل المجموعات في عرض باوربوينت دون تمرير",
+  "expires": "2026-11-25",
   "block": {}
 }
