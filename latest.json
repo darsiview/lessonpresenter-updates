@@ -1,9 +1,9 @@
 {
-  "version": "1.26.23",
-  "zip": "app-1.26.23.zip",
-  "sha256": "805091f07f779cf2854754e9fedda2eadadd4384d0518d6cb93dd04f9b3fc1da",
-  "sig": "dYtHHduAj742ulyywqcV/RTvvgchZD7cKAjdJJKkcI24bnFc8RlVizhD1y3v+fVrzcAF9P38xU88pDVyowq0CA==",
-  "notes": "الأدوات المستقلة: كل أداة خارج البرنامج تُحرَّك وحدها، وتثبيت الكل، والترتيب التلقائي، والتحكم من الدائرة العائمة",
+  "version": "1.26.24",
+  "zip": "app-1.26.24.zip",
+  "sha256": "7862777103684779188c4b2958433129362503f64763e063ce536a8f0864dc61",
+  "sig": "ovyz9o0k3fRQMehkzjDoLMGcilyZZVl+8T/Rfdca6kYh5zOxWYSztz3ocytShbZZCJwF5hqY+Js4t83LBAaSAA==",
+  "notes": "الأدوات الملتصقة تتحرك معاً (Alt يفصلها)، وربط الدرس بعرض من نافذة تعديل الدرس",
   "expires": "2026-11-25",
   "block": {}
 }
