@@ -1,9 +1,9 @@
 {
-  "version": "1.26.28",
-  "zip": "app-1.26.28.zip",
-  "sha256": "62170e93979103feb13d6bd3ed7df9be81a0c09124fc64ba1feb984b1618878e",
-  "sig": "SlKQgGmVxgtKEJpCd09faRkWfhz7VU2Ve5x3gdmuGlIe0wbsLvBjkfxMu77pFYvJmeU7W8eJ0fWDvRZicXO8DA==",
-  "notes": "قوائم الخانات: بعد اختيار حساب من قائمة البريد ينتقل المؤشر لكلمة المرور، وقائمة كلمة المرور تعرض الحسابات المطابقة للبريد فقط",
-  "expires": "2026-11-26",
+  "version": "1.26.30",
+  "zip": "app-1.26.30.zip",
+  "sha256": "e0ff2356d2993ee828823d99776834dd6cf1176d2b2d78357a4712898eb82b4b",
+  "sig": "dnc3U1gMl1y++tlvwSYFLcxm0RaT8f7E6JEKyYlUwM0hXeGT6sgLFwv57hwN4XEIXOOnEPjt0bdqdE5gwnU6AA==",
+  "notes": "✥ الأشكال والأختام: آخر شكل يوضع يبقى محدداً فيُسحب لتحريكه، ومقبض ⟳ لتدويره (Shift = زوايا 15°)، ومربعات الزوايا للتكبير والتصغير، وسحب رأس السهم أو ذيله. أداة «تحديد وتحريك» (V) لأي شكل قديم، والأسهم للضبط الدقيق وDelete للحذف.\n↳ سهم متفرع جديد: شجري، ومروحي، وحاصرة، مع عدد الفروع 2 إلى 5.",
+  "expires": "2026-11-27",
   "block": {}
 }
