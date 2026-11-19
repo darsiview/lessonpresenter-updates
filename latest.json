@@ -1,9 +1,9 @@
 {
-  "version": "1.26.36",
-  "zip": "app-1.26.36.zip",
-  "sha256": "7d8f82a841948edee1082b03e83af30520c470058bb9b05c02dfb47e146f8f8b",
-  "sig": "SLGSit/3oYLq4OPNA84PbuirWznVCQQ0MNRXqsUmf+/sHnfhtl3RMiZxGL5VIe/216WOV/+qzJUmybA68oSIBQ==",
-  "notes": "🔐 رسالة Security Alert: في «تشغيل تلقائي» يُفتح العرض من مجلد يضيفه البرنامج إلى «المواقع الموثوقة» في باوربوينت، فلا تظهر الرسالة أصلاً (والتخطي التلقائي يبقى احتياطاً).",
+  "version": "1.26.37",
+  "zip": "app-1.26.37.zip",
+  "sha256": "e52ed51943de419118fc4250e5083de0a5b874ee26d3724657b4928fc07f2aa3",
+  "sig": "O4yXAjMZfyFmws5Nipz0/42CFaUnJQVA4TCq5Hqkf9g1E7Yqyy2nb1l7Tk4nZsyb+96PyB3QC8WQYMGgb1D/CQ==",
+  "notes": "🔐 رسالة Security Alert: طريقة إجابة أقوى (تجلب الرسالة للمقدمة وتضغط إن لم تُغلق)، وتسجيل تفصيلي لكل رسالة في السجل لمعرفة سبب بقائها إن تكرر.\n🪟 إطار رفيع حول نافذة البرنامج (مثل Chrome) ليظهر حدّها فوق الخلفيات البيضاء، ويختفي عند التكبير وملء الشاشة.",
   "expires": "2026-12-01",
   "block": {}
 }
