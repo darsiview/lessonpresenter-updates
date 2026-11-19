@@ -1,9 +1,9 @@
 {
-  "version": "1.26.35",
-  "zip": "app-1.26.35.zip",
-  "sha256": "cacaece92655c9b2fd7854bc14df10ba9837b8feec2666903fb60ca287b7651b",
-  "sig": "jj34gMZQe1NaKgMQNltlgD9qDe6fXWXfx1QpZYiZntm845GkCqQPsK0yDDML9SAR+P1wnW4ZUY656LAcH+nNDQ==",
-  "notes": "🔐 رسالة Security Alert: يتخطاها البرنامج الآن حتى لو لم تكن نافذتها نشطة (كانت تبقى ظاهرة)، ويستمر في مراقبتها طوال العرض لا في أول دقيقتين فقط (تظهر أحياناً عند الوصول لشريحة فيها فيديو).",
+  "version": "1.26.36",
+  "zip": "app-1.26.36.zip",
+  "sha256": "7d8f82a841948edee1082b03e83af30520c470058bb9b05c02dfb47e146f8f8b",
+  "sig": "SLGSit/3oYLq4OPNA84PbuirWznVCQQ0MNRXqsUmf+/sHnfhtl3RMiZxGL5VIe/216WOV/+qzJUmybA68oSIBQ==",
+  "notes": "🔐 رسالة Security Alert: في «تشغيل تلقائي» يُفتح العرض من مجلد يضيفه البرنامج إلى «المواقع الموثوقة» في باوربوينت، فلا تظهر الرسالة أصلاً (والتخطي التلقائي يبقى احتياطاً).",
   "expires": "2026-12-01",
   "block": {}
 }
