@@ -1,9 +1,9 @@
 {
-  "version": "1.26.37",
-  "zip": "app-1.26.37.zip",
-  "sha256": "e52ed51943de419118fc4250e5083de0a5b874ee26d3724657b4928fc07f2aa3",
-  "sig": "O4yXAjMZfyFmws5Nipz0/42CFaUnJQVA4TCq5Hqkf9g1E7Yqyy2nb1l7Tk4nZsyb+96PyB3QC8WQYMGgb1D/CQ==",
-  "notes": "🔐 رسالة Security Alert: طريقة إجابة أقوى (تجلب الرسالة للمقدمة وتضغط إن لم تُغلق)، وتسجيل تفصيلي لكل رسالة في السجل لمعرفة سبب بقائها إن تكرر.\n🪟 إطار رفيع حول نافذة البرنامج (مثل Chrome) ليظهر حدّها فوق الخلفيات البيضاء، ويختفي عند التكبير وملء الشاشة.",
+  "version": "1.26.38",
+  "zip": "app-1.26.38.zip",
+  "sha256": "f8c92b1f51a05aa732a2c7882bff58e318c02cf981282f4473390d9b332a2cb9",
+  "sig": "xeACgqe+E3vZhkKNUyJzsjfDYmyaAg/BSJRoDjJ5oto2MgxMhB8kX0QOhp46GmhELtM5QeqsYYpdxNmLefdzAg==",
+  "notes": "🛠 إصلاح خطأ في 1.26.37 كان يمنع فتح الباوربوينت داخل البرنامج (فيتحول إلى صور).\n🪟 إطار النافذة يظهر أيضاً والنافذة مكبّرة (يختفي في ملء الشاشة فقط).",
   "expires": "2026-12-01",
   "block": {}
 }
